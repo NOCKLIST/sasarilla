@@ -2,7 +2,7 @@
 
 [LIVE DEMO](http://thenocklist.com/sasarilla/)
 
-1. DOWNLOAD THE [SASARILLA CONTENT INTEGRATION SYSTEM V401 ZIP](https://github.com/NOCKLIST/sasarilla)
+1. DOWNLOAD THE [SASARILLA CONTENT INTEGRATION SYSTEM V2.01 ZIP](https://github.com/NOCKLIST/sasarilla)
 
 2. REGISTER WITH [ZAZZLE](http://www.zazzle.com/)
 
